@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Exploring the Shadows: A Dive into Financial Crimes"
-date: 2024-04-18 19:00:00 +0300
+date: 2024-04-17 19:00:00 +0300
 ---
 
 In the realm of financial activities, not all is as it seems. Beyond the bustling markets and the exchange of goods and services lies a darker side, one that operates in the shadows of legality. Today, we delve into the complex world of financial crimes, exploring its various facets and the vocabulary that defines it.
